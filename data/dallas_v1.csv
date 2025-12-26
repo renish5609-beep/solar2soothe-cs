@@ -1,0 +1,7 @@
+tract,temp_exposure,median_income,age_sensitive_pct,grid_proxy
+Tract A,104,42000,0.28,0.55
+Tract B,101,78000,0.19,0.32
+Tract C,106,35000,0.34,0.61
+Tract D,102,56000,0.22,0.40
+Tract E,105,39000,0.31,0.58
+
